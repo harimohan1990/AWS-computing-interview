@@ -410,9 +410,6 @@ ScalingPolicy:
   Cooldown: 300
 ```
 
----
-
-This setup will **automatically scale out** when average CPU goes above 50% and **scale in** when it drops below. Let me know if you want Terraform or CloudFormation code for this!
 
 
 
